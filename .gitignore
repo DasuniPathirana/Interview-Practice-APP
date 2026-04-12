@@ -1,0 +1,11 @@
+node_modules/
+.next/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+.tmp/
+.DS_Store
+Thumbs.db
+*.log
+config.bat
